@@ -9,12 +9,12 @@
 ---
 
 ### А
-[abs()](./PythonOFFDOCS.md#abs_X)
-[aiter()](./PythonOFFDOCS.md#aiter_async_iterable)
-[all()](./PythonOFFDOCS.md#all_iterable)
-[anext()](./PythonOFFDOCS.md#awaitable-anextasync_iterator)
-[any()](./PythonOFFDOCS.md#any_iterable)
-[ascii()](./PythonOFFDOCS.md#ascii())
+[abs()](./PythonOFFDOCS.md#absx)
+[aiter()](./PythonOFFDOCS.md#aiterasynciterable)
+[all()](./PythonOFFDOCS.md#alliterable)
+[anext()](./PythonOFFDOCS.md#awaitable-anextasynciterator)
+[any()](./PythonOFFDOCS.md#anyiterable)
+[ascii()](./PythonOFFDOCS.md#asciiobject)
 
 ### B
 [bin()](./PythonOFFDOCS.md#)
@@ -1201,5 +1201,6 @@ saus = \_temp.sausage
 Изменено в версии 3.9: Когда параметры командной строки -E или -I используются, переменная среды PYTHONCASEOK теперь игнорируется.
 
 Сноски
+
 
 ##### 1 - Обратите внимание, что анализатор принимает только конвенцию в стиле UNIX. Если вы читаете код из файла, обязательно используйте преобразование Newline режим для преобразования новейсов Windows или Mac в стиле.
