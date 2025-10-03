@@ -9,7 +9,7 @@
 ---
 
 ### А
-[abs()](./PythonOFFDOCS.md#abs_x)
+[abs()](./PythonOFFDOCS.md#absx)
 [aiter()](./PythonOFFDOCS.md#aiterasync_iterable)
 [all()](./PythonOFFDOCS.md#alliterable)
 [anext()](./PythonOFFDOCS.md#awaitable-anextasync_iterator)
@@ -1204,5 +1204,6 @@ saus = \_temp.sausage
 
 
 ##### 1 - Обратите внимание, что анализатор принимает только конвенцию в стиле UNIX. Если вы читаете код из файла, обязательно используйте преобразование Newline режим для преобразования новейсов Windows или Mac в стиле.
+
 
 
