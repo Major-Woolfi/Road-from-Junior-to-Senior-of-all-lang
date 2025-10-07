@@ -19,7 +19,7 @@
 
 ### B
 
-[bin()](./PythonOFFDOCS.md#)
+[bin()](./PythonOFFDOCS.md#binx)
 [bool()](./PythonOFFDOCS.md#)
 [breakpoint()](./PythonOFFDOCS.md#)
 [bytearray()](./PythonOFFDOCS.md#)
@@ -1228,5 +1228,6 @@ saus = \_temp.sausage
 Изменено в версии 3.9: Когда параметры командной строки -E или -I используются, переменная среды PYTHONCASEOK теперь игнорируется.
 
 ## Сноски
+
 
 1 - Обратите внимание, что анализатор принимает только конвенцию в стиле UNIX. Если вы читаете код из файла, обязательно используйте преобразование Newline режим для преобразования новейсов Windows или Mac в стиле.
