@@ -20,7 +20,7 @@
 ### B
 
 [bin()](./PythonOFFDOCS.md#binx)
-[bool()](./PythonOFFDOCS.md#)
+[bool()](./PythonOFFDOCS.md#class-boolobjectfalse-)
 [breakpoint()](./PythonOFFDOCS.md#)
 [bytearray()](./PythonOFFDOCS.md#)
 [bytes()](./PythonOFFDOCS.md#)
@@ -1231,3 +1231,4 @@ saus = \_temp.sausage
 
 
 1 - Обратите внимание, что анализатор принимает только конвенцию в стиле UNIX. Если вы читаете код из файла, обязательно используйте преобразование Newline режим для преобразования новейсов Windows или Mac в стиле.
+
